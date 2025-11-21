@@ -1,0 +1,3 @@
+La branche main contient tous les differents fichier de base qui sont le readme contenant ine courte description de mon travail ; un dossier contenant docs dans lequel on retrouve le fichier objectfs.md ou j'ai decris le but du depot .
+la branche dev contient un fichiers branches.md dans lequl nous ajoutes la description des differentes branches . 
+ la branche hotfix est creer pour la correction des erreurs dans les differents fichiers .
