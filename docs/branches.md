@@ -1,3 +1,5 @@
 La branche main contient tous les differents fichier de base qui sont le readme contenant ine courte description de mon travail ; un dossier contenant docs dans lequel on retrouve le fichier objectfs.md ou j'ai decris le but du depot .
 la branche dev contient un fichiers branches.md dans lequl nous ajoutes la description des differentes branches . 
  la branche hotfix est creer pour la correction des erreurs dans les differents fichiers .
+
+ Pour faire en sorte que la branche dev contienne les modification de la branch principale (main) j'ai au prealable mis a jour la branch main en la fusionnamt avec la branch "hotfix " grace a la commande "git merge "hotfix.." etant sur la branche main puis je me suis positionne sur la branch dev et j ai utilise la meme commande pour la synchronisation des modifications dans les differentes branches.
